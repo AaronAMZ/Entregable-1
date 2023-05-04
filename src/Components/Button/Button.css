@@ -1,0 +1,18 @@
+.switch_btn {
+    width: 50px;
+    aspect-ratio: 1;
+    background-color: lightgoldenrodyellow;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 2rem;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.switch_btn:hover {
+    transform: scale(1.1);
+}
